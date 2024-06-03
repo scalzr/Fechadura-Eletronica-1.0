@@ -1,0 +1,21 @@
+Divisão da Apresentação:
+
+🔹 Parte 1/Gabriela:
+- Introdução do trabalho;
+- Citar as bibliotecas.
+
+🔹 Parte 2/Gabriel:
+- Teclado;
+- Pinos de conexão do teclado.
+
+🔹 Parte 3/Vitor:
+- Leds;
+- Protoboard.
+
+🔹 Parte 4/Scalzer:
+- Motor;
+- Funcionamento e condições.
+
+
+
+
